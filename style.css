@@ -1,0 +1,17 @@
+body {
+    background-color: #8bb5d3; /* Warna kuning cerah */
+    font-family: Arial, sans-serif; / jenis huruf yang bersih dan mudah dibaca */
+    color: #191970; /* Warna teks utama (Biru Gelap)
+}
+
+.kartu-profil {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    bordir-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0);
+}
+.kartu-profil img {
+  width:
+  
